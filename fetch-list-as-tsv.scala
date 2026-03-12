@@ -4,7 +4,6 @@
 //> using dep "com.microsoft.playwright:playwright:1.58.0"
 
 // ここで取得できるのは、Webで受付できる粗大ごみに限られる。
-// それ以外は 
 
 import com.microsoft.playwright.*
 import com.microsoft.playwright.options.WaitForSelectorState
