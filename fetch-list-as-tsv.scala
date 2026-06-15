@@ -1,6 +1,7 @@
 #!/usr/bin/env -S scala-cli shebang
 
-//> using scala 3.3
+//> using scala 3.3.8
+//> using options -Yfuture-lazy-vals -java-output-version:11
 //> using dep "com.microsoft.playwright:playwright:1.58.0"
 
 // ここで取得できるのは、Webで受付できる粗大ごみに限られる。
